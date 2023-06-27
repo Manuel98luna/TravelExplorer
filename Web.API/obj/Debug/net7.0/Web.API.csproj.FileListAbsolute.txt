@@ -1,0 +1,82 @@
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\appsettings.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Web.API.exe
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Web.API.deps.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Web.API.runtimeconfig.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Web.API.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Web.API.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Application.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Domain.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Application.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\Domain.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.csproj.AssemblyReference.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.AssemblyInfoInputs.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.AssemblyInfo.cs
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.csproj.CoreCompileInputs.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.API.props
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\scopedcss\bundle\Web.API.styles.css
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.csproj.CopyComplete
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\refint\Web.API.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\appsettings.Development.json
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\appsettings.json
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Web.API.exe
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Web.API.deps.json
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Web.API.runtimeconfig.json
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Web.API.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Web.API.pdb
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\MediatR.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Application.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Domain.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Infraestructure.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Application.pdb
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Infraestructure.pdb
+C:\xampp\htdocs\TravelExplorer\Web.API\bin\Debug\net7.0\Domain.pdb
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.AssemblyInfo.cs
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.API.props
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\scopedcss\bundle\Web.API.styles.css
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.csproj.CopyComplete
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\refint\Web.API.dll
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.pdb
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
+C:\xampp\htdocs\TravelExplorer\Web.API\obj\Debug\net7.0\ref\Web.API.dll

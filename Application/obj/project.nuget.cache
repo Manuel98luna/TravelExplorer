@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "08CizJn1/TjA5e6O/kIbTQvZgvCZ589gCtNyqUkn6BkHxT/8cjITFInbII1FAZ22xRMNr3EBdIw3uhHXTy3POg==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\TravelExplorer\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmlze\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\jmlze\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jmlze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

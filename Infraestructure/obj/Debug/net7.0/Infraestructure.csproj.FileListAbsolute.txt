@@ -1,0 +1,34 @@
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Application.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Application.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\jmlze\Desktop\tarea repo\EasyPOS\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Application.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Application.pdb
+C:\xampp\htdocs\TravelExplorer\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\xampp\htdocs\TravelExplorer\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
