@@ -22,5 +22,9 @@ public partial record PhoneNumber
 
  [GeneratedRegex(Pattern)]
  private static partial Regex PhoneNumberRegex();
- 
+
+    public static PhoneNumber Create(object phonenumber)
+    {
+        throw new NotImplementedException();
+    }
 }

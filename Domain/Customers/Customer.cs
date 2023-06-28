@@ -6,7 +6,7 @@ namespace Domain.Customers;
 public sealed class Customer : AggregateRoot
 {
 
-    public Customer(CustomerId id, string name, string description, string ubication, Address address, bool active)
+    public Customer(CustomerId id, string name, string description, string ubication,PhoneNumber phoneNumber, Address address, bool active)
     {
         Id = id;
         Name = name;
@@ -14,6 +14,7 @@ public sealed class Customer : AggregateRoot
         Ubication = ubication;
         Address = address;
         Active = active;
+        Phonenumber =phoneNumber;
 
     }
 
@@ -27,6 +28,7 @@ public sealed class Customer : AggregateRoot
     public string Ubication{ get; private set; }= string.Empty;
 
     public Address Address{ get; private set; }
+    public PhoneNumber Phonenumber{ get; private set; }
     public bool Active{ get;  set; }
 
 }
